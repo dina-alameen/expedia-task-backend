@@ -2,6 +2,10 @@
 *Heroku URL >>>>>>>>>>  https://expedia-task-dina-al-ameen.herokuapp.com/
 
 *Travis URL >>>>>>>>>>> https://travis-ci.org/dina-alameen/expedia-task-backend/
+
+*Back End Project Repository URL >>>>>>> https://github.com/dina-alameen/expedia-task-backend
+
+*Front End Project Repository URL >>>>>>> https://github.com/dina-alameen/expedia-task-frontend 
 _____________________________________________________________________________________
 
 *environment requirements :
